@@ -1,0 +1,6 @@
+{
+  "name": "OmniMind AI - Multimodal AI Intelligence Workspace",
+  "description": "Unified multimodal intelligence workspace to ingest, analyze, cross-reference, and query images, audio, video, scanned docs, and PDFs with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
